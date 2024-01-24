@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Consecutive Numbers\Consecutive Numbers\bin\Debug\Consecutive Numbers.exe.config
+C:\Users\Alex\source\repos\Consecutive Numbers\Consecutive Numbers\bin\Debug\Consecutive Numbers.exe
+C:\Users\Alex\source\repos\Consecutive Numbers\Consecutive Numbers\bin\Debug\Consecutive Numbers.pdb
+C:\Users\Alex\source\repos\Consecutive Numbers\Consecutive Numbers\obj\Debug\Consecutive Numbers.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Consecutive Numbers\Consecutive Numbers\obj\Debug\Consecutive Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Consecutive Numbers\Consecutive Numbers\obj\Debug\Consecutive Numbers.exe
+C:\Users\Alex\source\repos\Consecutive Numbers\Consecutive Numbers\obj\Debug\Consecutive Numbers.pdb
