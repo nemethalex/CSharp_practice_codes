@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Array_of_Multiples\Array_of_Multiples\bin\Debug\Array_of_Multiples.exe.config
+C:\Users\Alex\source\repos\Array_of_Multiples\Array_of_Multiples\bin\Debug\Array_of_Multiples.exe
+C:\Users\Alex\source\repos\Array_of_Multiples\Array_of_Multiples\bin\Debug\Array_of_Multiples.pdb
+C:\Users\Alex\source\repos\Array_of_Multiples\Array_of_Multiples\obj\Debug\Array_of_Multiples.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Array_of_Multiples\Array_of_Multiples\obj\Debug\Array_of_Multiples.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Array_of_Multiples\Array_of_Multiples\obj\Debug\Array_of_Multiples.exe
+C:\Users\Alex\source\repos\Array_of_Multiples\Array_of_Multiples\obj\Debug\Array_of_Multiples.pdb

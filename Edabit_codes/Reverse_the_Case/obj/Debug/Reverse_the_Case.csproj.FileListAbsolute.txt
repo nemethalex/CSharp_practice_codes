@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Reverse_the_Case\Reverse_the_Case\bin\Debug\Reverse_the_Case.exe.config
+C:\Users\Alex\source\repos\Reverse_the_Case\Reverse_the_Case\bin\Debug\Reverse_the_Case.exe
+C:\Users\Alex\source\repos\Reverse_the_Case\Reverse_the_Case\bin\Debug\Reverse_the_Case.pdb
+C:\Users\Alex\source\repos\Reverse_the_Case\Reverse_the_Case\obj\Debug\Reverse_the_Case.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Reverse_the_Case\Reverse_the_Case\obj\Debug\Reverse_the_Case.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Reverse_the_Case\Reverse_the_Case\obj\Debug\Reverse_the_Case.exe
+C:\Users\Alex\source\repos\Reverse_the_Case\Reverse_the_Case\obj\Debug\Reverse_the_Case.pdb

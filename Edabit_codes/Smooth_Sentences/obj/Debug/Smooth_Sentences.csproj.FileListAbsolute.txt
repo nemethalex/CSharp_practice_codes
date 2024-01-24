@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Smooth_Sentences\Smooth_Sentences\bin\Debug\Smooth_Sentences.exe.config
+C:\Users\Alex\source\repos\Smooth_Sentences\Smooth_Sentences\bin\Debug\Smooth_Sentences.exe
+C:\Users\Alex\source\repos\Smooth_Sentences\Smooth_Sentences\bin\Debug\Smooth_Sentences.pdb
+C:\Users\Alex\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.exe
+C:\Users\Alex\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.pdb
